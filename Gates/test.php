@@ -1,6 +1,6 @@
 <?php
 
-////API Edited By: @CODE_WRAITH
+////API Edited By: @Noyon
 ////Rest API
 ///Enjoy_xD..!!!
 
